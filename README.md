@@ -22,7 +22,7 @@ Left Hand           |  Right Hand
 
 ## Future Work
 
-[Use of GANs to generate a 3D zoomable image] (https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
+[Use of GANs to generate a 3D zoomable image](https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
 
 ## References
 [Murtaza's Workshop - Robotics and AI](https://youtu.be/9iEPzbG-xLE)
